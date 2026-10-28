@@ -1,29 +1,31 @@
-**288 of 338** applicable Tapir commands have a Grasshopper component (85 %): ✅ 288 done, ⬜ 50 open, ➖ 1 not applicable.
+**302 of 456** applicable Tapir commands have a Grasshopper component (66 %): ✅ 302 done, ⬜ 154 open, ➖ 1 not applicable.
 
-Parameters of the 288 used commands: 🟢 234 every parameter has an input, 🟡 37 the rest through a JSON input, 🟠 17 some parameters missing.
+Parameters of the 302 used commands: 🟢 236 every parameter has an input, 🟡 46 the rest through a JSON input, 🟠 20 some parameters missing.
 
 | Command group | Used | Applicable | ✅ | 🔀 | 🚧 | 🙋 | ⬜ | ⛔ | ➖ | 🟢 | 🟡 | 🟠 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Application Commands | 100 % | 9 | 9 |  |  |  |  |  |  | 9 |  |  |
-| Project Commands | 92 % | 28 | 26 |  |  |  | 2 |  |  | 26 |  |  |
-| Element Commands | 89 % | 83 | 74 |  |  |  | 9 |  |  | 44 | 26 | 4 |
-| Element grouping Commands | 71 % | 7 | 5 |  |  |  | 2 |  |  | 5 |  |  |
-| Favorites Commands | 90 % | 11 | 10 |  |  |  | 1 |  |  | 10 |  |  |
-| Property Commands | 85 % | 14 | 12 |  |  |  | 2 |  |  | 12 |  |  |
-| Classification Commands | 100 % | 9 | 9 |  |  |  |  |  |  | 9 |  |  |
-| Attribute Commands | 69 % | 36 | 25 |  |  |  | 11 |  |  | 4 | 9 | 12 |
-| IFC Commands | 100 % | 7 | 7 |  |  |  |  |  |  | 7 |  |  |
-| Library Commands | 87 % | 8 | 7 |  |  |  | 1 |  |  | 7 |  |  |
-| Teamwork Commands | 100 % | 9 | 9 |  |  |  |  |  |  | 9 |  |  |
-| Navigator Commands | 65 % | 40 | 26 |  |  |  | 14 |  |  | 24 | 2 |  |
+| Application Commands | 45 % | 20 | 9 |  |  |  | 11 |  |  | 9 |  |  |
+| Project Commands | 65 % | 43 | 28 |  |  |  | 15 |  |  | 28 |  |  |
+| Element Commands | 68 % | 113 | 77 |  |  |  | 36 |  |  | 39 | 35 | 3 |
+| Element grouping Commands | 75 % | 8 | 6 |  |  |  | 2 |  |  | 6 |  |  |
+| Favorites Commands | 71 % | 14 | 10 |  |  |  | 4 |  |  | 9 |  | 1 |
+| Property Commands | 66 % | 18 | 12 |  |  |  | 6 |  |  | 10 |  | 2 |
+| Classification Commands | 91 % | 12 | 11 |  |  |  | 1 |  |  | 11 |  |  |
+| Attribute Commands | 54 % | 46 | 25 |  |  |  | 21 |  |  | 4 | 9 | 12 |
+| IFC Commands | 53 % | 13 | 7 |  |  |  | 6 |  |  | 7 |  |  |
+| Library Commands | 63 % | 11 | 7 |  |  |  | 4 |  |  | 7 |  |  |
+| Teamwork Commands | 91 % | 12 | 11 |  |  |  | 1 |  |  | 11 |  |  |
+| Navigator Commands | 56 % | 46 | 26 |  |  |  | 20 |  |  | 24 | 2 |  |
 | Graphic Override Commands | 0 % | 3 |  |  |  |  | 3 |  |  |  |  |  |
-| Issue Management Commands | 100 % | 10 | 10 |  |  |  |  |  |  | 10 |  |  |
-| Revision Management Commands | 100 % | 5 | 5 |  |  |  |  |  |  | 5 |  |  |
-| Design Options Commands | 100 % | 17 | 17 |  |  |  |  |  |  | 17 |  |  |
+| Issue Management Commands | 100 % | 11 | 11 |  |  |  |  |  |  | 11 |  |  |
+| Revision Management Commands | 83 % | 6 | 5 |  |  |  | 1 |  |  | 5 |  |  |
+| Design Options Commands | 89 % | 19 | 17 |  |  |  | 2 |  |  | 17 |  |  |
 | Keynote Commands | 100 % | 9 | 9 |  |  |  |  |  |  | 9 |  |  |
-| MEP Commands | 88 % | 25 | 22 |  |  |  | 3 |  |  | 21 |  | 1 |
-| Solid Element Operation Commands | 100 % | 6 | 6 |  |  |  |  |  |  | 6 |  |  |
+| Project Data Commands | 0 % | 8 |  |  |  |  | 8 |  |  |  |  |  |
+| MEP Commands | 86 % | 29 | 25 |  |  |  | 4 |  |  | 23 |  | 2 |
+| Analytical Commands | 0 % | 4 |  |  |  |  | 4 |  |  |  |  |  |
+| Solid Element Operation Commands | 66 % | 9 | 6 |  |  |  | 3 |  |  | 6 |  |  |
 | Script UI Commands | 0 % | 2 |  |  |  |  | 2 |  |  |  |  |  |
 | Developer Commands | 0 % | 0 |  |  |  |  |  |  | 1 |  |  |  |
 
-Updated 2026-10-28 08:58 UTC.
+Updated 2026-10-28 09:31 UTC.
